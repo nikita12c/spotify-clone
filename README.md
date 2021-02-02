@@ -1,3 +1,6 @@
+# Music App 
+It is similar to spotify where we can search any song and play it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
