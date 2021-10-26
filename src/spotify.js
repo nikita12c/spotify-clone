@@ -1,8 +1,8 @@
 // https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 export const authEndpoint = "https://accounts.spotify.com/authorize";
 // Replace with your app's client ID, redirect URI and desired scopes
-const clientId = "9564cbf89d2b4c79992706ee3b9b1423";
-const redirectUri = "https://nik-spotify-clone.web.app/"; //After clicking login we goto authEndPoint spotify will authorize and after that we will redirect back to localhost
+const clientId = "YOUR";
+const redirectUri = "YOUR"; //After clicking login we goto authEndPoint spotify will authorize and after that we will redirect back to localhost
 const scopes = [  //scope allow users to do these things
   "user-read-currently-playing",
   "user-read-recently-played",
